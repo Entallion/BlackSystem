@@ -41,7 +41,7 @@ Współpracę rozliczam elastycznie — **B2B (np. przez Useme)** lub w innej wy
 ### 💬 Kontakt:
 📧 domjed.blacksystem@gmail.com 
 📍 Rybnik, Polska (CET/CEST)  
-🔗
+
 
 ---
 
