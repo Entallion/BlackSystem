@@ -26,7 +26,7 @@ Od kilku lat rozwijam się w kierunku **programowania w Pythonie** oraz integrac
 ### 💡 Moje projekty:
 - 🧩 **Entalion AI** – lokalny system sztucznej inteligencji na Raspberry Pi  
 - ⚙️ **Kreator Montaży** – aplikacja mobilna (BeeWare) do dokumentacji instalacji fotowoltaicznych  
-- 📊 **Sonel Parser** – automatyczny eksport raportów pomiarowych do Google Sheets  
+- 📊 **S_Konwerter** – automatyczny eksport raportów pomiarowychs  
 - 🤖 **Robot balansujący** – prototyp robota dwukołowego z czujnikiem MPU6050 i samouczącą się stabilizacją
 
 
